@@ -1,0 +1,12 @@
+[
+    {
+        "rutcliente": "83747651",
+        "tipo": "pep",
+        "tamaño": "p",
+        "jornada": "d",
+        "cantidad": 1,
+        "subtotal": 5000,
+        "descuento": 750,
+        "monto": 4250
+    }
+]
